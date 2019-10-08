@@ -38,3 +38,9 @@ h4{
     font-family: 'Courier New', Courier, monospace;
 
 }
+
+img{
+    position: fixed; 
+    right: 5vw;
+    top: 5vh;
+}
